@@ -12,26 +12,26 @@
 <a href="https://github.com/ADGWV/ADGWV-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ADGWV/ADGWV-BOT?label=Watching&style=social"></a>
 </p>
 
+-----
 
+<h3 align="center">𝙍𝙊𝙉 𝘽𝙊𝙏</h3>
 
-<h3 align="center">WHATSAPP BOT</h3>
+-----
 
 ***
-### Información
-- Cambie número de dueño en [Config](https://github.com/ADGWV/ADGWV-BOT/blob/main/config.js#L6)
-- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/ADGWV/ADGWV-BOT/blob/main/package.json#L42)
+### معلومة
+- تغيير رقم المالك في
+- [Config](https://github.com/ADGWV/ADGWV-BOT/blob/main/config.js#L6)
+- يمكنك الرجوع إلى الإصدار الأحدث من Baileys عن طريق تحرير package.json
+- [esta sección](https://github.com/ADGWV/ADGWV-BOT/blob/main/package.json#L42)
 
-### FREE APIKEY
--  [click aquí](https://api.fgmods.xyz)
-
-### Ejemplo 
-En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
+### رقام المطورين
 
 [![WhatsApp](https://img.shields.io/badge/رقم_المطور_رون-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201006130651) 
 
 ***
 
-#### Deploy to Heroku
+### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADGWV/ADGWV-BOT)
 
 #### Heroku Buildpack
