@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=FG98F&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/ADGWV"><img title="Author" src="https://img.shields.io/badge/3mrRon-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://whatsapp.com/channel/0029VafI273E50UdyEXau614"><img title="Author" src="https://img.shields.io/badge/قناة دينيه-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/ADGWV?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ADGWV?label=Followers&style=social"></a>
@@ -27,7 +27,7 @@
 ### Ejemplo 
 En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 
-[![WhatsApp](https://img.shields.io/badge/DyLux-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
+[![WhatsApp](https://img.shields.io/badge/رقم_المطور_رون-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201006130651) 
 
 ***
 
@@ -40,6 +40,8 @@ En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 | **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
+-----------------------
+اوامر ترميكس للتشغيل البوت من عليه
 ### TERMUX
 
 ```sh
