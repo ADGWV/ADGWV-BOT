@@ -3,13 +3,13 @@
 <img src="https://komarev.com/ghpvc/?username=FG98F&color=brightgreen" />
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/ADGWV"><img title="Author" src="https://img.shields.io/badge/3mrRon-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-fg?&style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-fg?style=social"></a>
-<a href="https://github.com/FG98F/dylux-fg/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watching&style=social"></a>
+<a href="https://github.com/ADGWV?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ADGWV?label=Followers&style=social"></a>
+<a href="https://github.com/ADGWV/ADGWV-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ADGWV/ADGWV-BOT?&style=social"></a>
+<a href="https://github.com/ADGWV/ADGWV-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ADGWV/ADGWV-BIT?style=social"></a>
+<a href="https://github.com/ADGWV/ADGWV-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ADGWV/ADGWV-BOT?label=Watching&style=social"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 
 ***
 ### Información
-- Cambie número de dueño en [Config](https://github.com/FG98F/dylux-fg/blob/main/config.js#L6)
-- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/FG98F/dylux-fg/blob/main/package.json#L42)
+- Cambie número de dueño en [Config](https://github.com/ADGWV/ADGWV-BOT/blob/main/config.js#L6)
+- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/ADGWV/ADGWV-BOT/blob/main/package.json#L42)
 
 ### FREE APIKEY
 -  [click aquí](https://api.fgmods.xyz)
@@ -32,7 +32,7 @@ En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 ***
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/dylux-fg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ADGWV/ADGWV-BOT)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
